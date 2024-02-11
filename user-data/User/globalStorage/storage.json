@@ -1,0 +1,35 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1707612075465": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "{878CB44F-FF84-4932-8923-975FC5819DF3}",
+    "telemetry.machineId": "e562a19fe3937b2f8f11329f7fe4970a33058e73f50604689c5522af7d7f80c3",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1707612075465"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "C:\\Users\\sfplinternet\\scoop\\apps\\vscode\\1.86.1\\data\\user-data\\Backups\\1707612075465",
+            "uiState": {
+                "mode": 1,
+                "x": 448,
+                "y": 156,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "windowControlHeight": 35
+}

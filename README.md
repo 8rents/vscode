@@ -1,6 +1,6 @@
 # ![SFPL Icon](https://raw.githubusercontent.com/8rents/_/i/icons/h1/vscode.png) vsCode
 
-> My vsCode settings.Installed in `data`
+> ***My vsCode settings.Installed in `data`***
 
 ---
 

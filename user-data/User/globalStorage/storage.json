@@ -3,7 +3,10 @@
     "profileAssociations": {
         "workspaces": {},
         "emptyWindows": {
-            "1707612075465": "__default__profile__"
+            "1707612075465": "__default__profile__",
+            "1707857062904": "__default__profile__",
+            "1707857104759": "__default__profile__",
+            "1707857113499": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -14,7 +17,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1707612075465"
+                "backupFolder": "1707857113499"
             }
         ]
     },

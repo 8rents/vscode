@@ -1,2 +1,3 @@
-2024/02/10-16:41:15.231 266c Creating DB C:\Users\sfplinternet\scoop\apps\vscode\1.86.1\data\user-data\Local Storage\leveldb since it was missing.
-2024/02/10-16:41:15.250 266c Reusing MANIFEST C:\Users\sfplinternet\scoop\apps\vscode\1.86.1\data\user-data\Local Storage\leveldb/MANIFEST-000001
+2024/02/13-12:45:13.029 3140 Reusing MANIFEST C:\Users\sfplinternet\scoop\apps\vscode\1.86.1\data\user-data\Local Storage\leveldb/MANIFEST-000001
+2024/02/13-12:45:13.029 3140 Recovering log #3
+2024/02/13-12:45:13.029 3140 Reusing old log C:\Users\sfplinternet\scoop\apps\vscode\1.86.1\data\user-data\Local Storage\leveldb/000003.log 
